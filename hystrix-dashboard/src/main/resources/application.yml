@@ -1,3 +1,7 @@
 server:
   port: 8887
 
+management:
+  security:
+    enabled: false
+
