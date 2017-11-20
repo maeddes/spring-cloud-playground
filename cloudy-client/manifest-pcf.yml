@@ -1,0 +1,8 @@
+---
+instances: 1
+memory: 512M
+applications:
+- name: cf-numbers-service
+  path: target/numbers-service-0.1.0.jar
+  services:
+  - service-registry

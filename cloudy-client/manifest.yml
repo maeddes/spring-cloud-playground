@@ -1,0 +1,10 @@
+---
+applications:
+- name: cf-hello-cloud
+  memory: 512M
+  instances: 1
+  buildpack: java_buildpack
+  path: target/cloudy-client-0.0.1-SNAPSHOT.jar
+  services:
+  - service-registry
+

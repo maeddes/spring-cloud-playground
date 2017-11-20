@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: service-number-increment
+
+management:
+  security:
+    enabled: false

@@ -4,4 +4,4 @@ server:
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 5
-    instanceId: ${spring.application.name}:${random.value}
+    instanceId: ${spring.application.name}:${server.port}

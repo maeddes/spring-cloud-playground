@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudy-client" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="hystrix-dashboard" />
+        <module name="service-hello-world" />
+        <module name="service-number-increment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloudy-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="service-hello-world" target="1.8" />
+      <module name="service-number-increment" target="1.8" />
+      <module name="temp-config-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudy-client/cloudy-client.iml" filepath="$PROJECT_DIR$/cloudy-client/cloudy-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hello-world/service-hello-world.iml" filepath="$PROJECT_DIR$/service-hello-world/service-hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-number-increment/service-number-increment.iml" filepath="$PROJECT_DIR$/service-number-increment/service-number-increment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-playground.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-playground.iml" />
+    </modules>
+  </component>
+</project>
